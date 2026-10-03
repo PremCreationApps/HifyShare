@@ -54,7 +54,7 @@
 <p><b>HifyShare</b> aims to provide a convenient collection of Android-to-PC and PC-to-Android file-transfer tools in one application.</p>
 <p>If you frequently move files between your Android phone and computer, HifyShare can provide a convenient local-network transfer option.</p><p>&nbsp;<b>📸 HifyShare Screenshots</b></p><p><b></b></p><div class="separator" style="clear: both; text-align: center;"><b><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdSbkE4ay-8Pr4F-DvUMjl-DX8NoLyqkItA5mpdZcPyCVW1nf73g2vVy6IdaVAzMHvf01SN_SlIPBramVW92XgGYgBtDsRUDRXLCFLq_HRKae1OpC98fsDuYg9LH848CYc2Z8LsWgbbWnIedKmKmd9u4KRqGPjTS55-jZvprSqZJEnP-aIgwcmZFSSqCg/s2920/1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1689" data-original-width="2920" height="370" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdSbkE4ay-8Pr4F-DvUMjl-DX8NoLyqkItA5mpdZcPyCVW1nf73g2vVy6IdaVAzMHvf01SN_SlIPBramVW92XgGYgBtDsRUDRXLCFLq_HRKae1OpC98fsDuYg9LH848CYc2Z8LsWgbbWnIedKmKmd9u4KRqGPjTS55-jZvprSqZJEnP-aIgwcmZFSSqCg/w640-h370/1.png" width="640" /></a></b></div><b><br />&nbsp;</b><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK1KLMmgXjxgw98kgeRUebLjyu2syk2lV2RYPdXbi9MV1SPhle-N5PHt0bmjJKfcmrpsqk9-t8gExQYDYRNqy8wdcnc8Kr3vycqqbjAgW8kCSW9mmI1UvOyePStUb3yfowaq5c1p4AW53M81DGXZwr_zHK1jwDeY_5JkvIPu3wLdfWhD055lj0PaFtR5k/s2920/2.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1654" data-original-width="2920" height="362" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK1KLMmgXjxgw98kgeRUebLjyu2syk2lV2RYPdXbi9MV1SPhle-N5PHt0bmjJKfcmrpsqk9-t8gExQYDYRNqy8wdcnc8Kr3vycqqbjAgW8kCSW9mmI1UvOyePStUb3yfowaq5c1p4AW53M81DGXZwr_zHK1jwDeY_5JkvIPu3wLdfWhD055lj0PaFtR5k/w640-h362/2.png" width="640" /></a></div><p></p><p><b>&nbsp;</b></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIftiRYvdPgv7jZ4fFN_jcXnIvDGcHGi_FPiCMHMHniN7yHC7f4zwMuxP9l8EN6hww2N4RWAKfPKT9XtilrQTgrwDgXY-BFLFIShWK3oMsE6NNbE0YgmkfdJsu54T5xHBdlHVWr61UIewDumrRvM8z1h1F-MZPULhjPUdw5ifk7WWnKb82_HhiRW467cE/s2920/3.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1679" data-original-width="2920" height="368" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIftiRYvdPgv7jZ4fFN_jcXnIvDGcHGi_FPiCMHMHniN7yHC7f4zwMuxP9l8EN6hww2N4RWAKfPKT9XtilrQTgrwDgXY-BFLFIShWK3oMsE6NNbE0YgmkfdJsu54T5xHBdlHVWr61UIewDumrRvM8z1h1F-MZPULhjPUdw5ifk7WWnKb82_HhiRW467cE/w640-h368/3.png" width="640" /></a></div><br /><p></p><p>
   
-## 🎥 PeerDrop Demo
+## 🎥 HifyShare Demo
 
 [![Watch the video](https://youtube.com)](https://youtu.be/K1b0F41bsS8?si=uStZ8gfP2wBIIh_Z)
 
@@ -63,7 +63,7 @@
   
 ## 🔐 Privacy
 
-Privacy Policy: **[https://prem-creation.blogspot.com/p/hifyshare-privacy-policy.html]**
+Privacy Policy: **https://prem-creation.blogspot.com/p/hifyshare-privacy-policy.html**
 
 ## 👨‍💻 Developer
 
