@@ -59,8 +59,8 @@
 [![Watch the video](https://youtube.com)](https://youtu.be/K1b0F41bsS8?si=uStZ8gfP2wBIIh_Z)
 
 <h2>HifyShare – Fast. Simple. Connected.</h2>
-<p>Transfer your files between Android and PC with HifyShare.</p><p><br /></p><br />
-
+<p>Transfer your files between Android and PC with HifyShare.
+  
 ## 🔐 Privacy
 
 Privacy Policy: **[https://prem-creation.blogspot.com/p/hifyshare-privacy-policy.html]**
@@ -71,5 +71,4 @@ Prem Creation: **https://prem-creation.blogspot.com**
 
 Independent Android Developer
 
-Website: **https://prem-creation-3e151.web.
-app**
+Website: **https://prem-creation-3e151.web.app**
