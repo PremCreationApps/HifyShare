@@ -58,7 +58,7 @@
 
 Watch the HifyShare app demo on YouTube:
 
-▶️ "Watch PeerDrop Demo" (https://youtu.be/K1b0F41bsS8)
+▶️ "Watch HifyShare Demo" (https://youtu.be/K1b0F41bsS8)
 
 <h2>HifyShare – Fast. Simple. Connected.</h2>
 <p>Transfer your files between Android and PC with HifyShare.
