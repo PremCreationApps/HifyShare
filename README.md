@@ -60,6 +60,10 @@ Watch the HifyShare app demo on YouTube:
 
 ▶️ "Watch HifyShare Demo" (https://youtu.be/K1b0F41bsS8)
 
+## 📥 Download
+
+[⬇️ Download PeerDrop 2.0.4](https://github.com/PremCreationApps/HifyShare/releases/tag/v1.1)
+
 <h2>HifyShare – Fast. Simple. Connected.</h2>
 <p>Transfer your files between Android and PC with HifyShare.
   
