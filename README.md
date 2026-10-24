@@ -69,11 +69,11 @@ Watch the HifyShare app demo on YouTube:
   
 ## 🔐 Privacy
 
-Privacy Policy: **https://prem-creation.blogspot.com/p/hifyshare-privacy-policy.html**
+Privacy Policy: **https://prem-creation-apps-store.blogspot.com/p/hifyshare-privacy-policy.html**
 
 ## 👨‍💻 Developer
 
-Prem Creation: **https://prem-creation.blogspot.com**
+Prem Creation: **https://prem-creation-apps-store.blogspot.com**
 
 Independent Android Developer
 
